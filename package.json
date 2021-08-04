@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrChaby/textmaker-jessi.git"
+    "url": "git+https://github.com/MrChaby"
   },
   "author": "",
   "license": "GNU",
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/MrChaby"
   },
-  "homepage": "https://wa.me/17864802647"
+  "homepage": "https://github.com/MrChaby"
 }
